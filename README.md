@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiSter-ros4n6
 - 👀 I’m interested in bash, python, forensics
-- 🌱 I’m currently learning scripting and using git/github
+- 🌱 I’m currently learning scripting and using git/github and a full dose of english :-D
 - 💞️ I’m looking to collaborate on things :-)
 - 📫 How to reach me: at the moment here on github, i think it is good, till i have learned enough ;-)
 
